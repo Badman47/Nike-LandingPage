@@ -1,23 +1,25 @@
 # Nike Landing Page 👟
 
-A modern and responsive Nike product landing page built using HTML, CSS, and JavaScript.
+A sleek, modern, and responsive landing page for Nike, built using **Treact** (React + Tailwind CSS components) and styled with **Tailwind CSS**.
 
 ## 🚀 Features
 
-- Clean and modern UI
-- Responsive design (mobile-friendly)
-- Product showcase section
-- Interactive navigation and animations
+- Fully responsive and mobile-friendly design
+- Built with Treact UI components
+- Tailwind CSS utility-first styling
+- Clean animations and layout
+- React functional components and JSX structure
 
 ## 🛠️ Built With
 
-- HTML5
-- CSS3 (Flexbox & Grid)
-- Vanilla JavaScript
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Treact](https://treact.owaiskhan.me/)
+- [Vite](https://vitejs.dev/) (if applicable)
 
-## 📸 Screenshots
+## 📦 Installation
 
-_Add screenshots here if you want — just place image files in your project and link them like:_
-
-```markdown
-![Homepage Screenshot](./images/screenshot.png)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Badman47/Nike-LandingPage.git
+   cd Nike-LandingPage
